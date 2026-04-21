@@ -41,11 +41,19 @@ Para aprovechar este curso al máximo, es recomendable que tengas bases sólidas
 En este módulo sentamos las bases. Aprenderás la diferencia entre el DOM Real y el Virtual, la sintaxis JSX, la creación de componentes funcionales, el paso de props y las mejores prácticas para estructurar tus proyectos y estilos. Es el pilar fundamental para todo lo que viene después.
 
 ### [Módulo 02: Estado y Ciclo de Vida (Hooks)](./02-estado-y-hooks)
-**⏱️ Duración estimada:** 15 - 20 horas. (Próximamente)
-Interactividad pura. Aprenderás a manejar el estado con `useState`, efectos secundarios con `useEffect` y a optimizar con `useRef`.
+**⏱️ Duración estimada:** 15 - 20 horas.
+Interactividad pura y arquitectura. Aprenderás a dominar la memoria del componente con `useState`, evitar el temido "Doble Render", manejar efectos secundarios con `useEffect` (y saber cuándo NO usarlo), persistir datos ocultos con `useRef`, y encapsular lógica avanzada en Custom Hooks.
 
 ### [Módulo 03: Eventos y Formularios](./03-eventos-formularios)
-*(En desarrollo)*
+**⏱️ Duración estimada:** 10 - 14 horas.
+El puente entre el usuario y la aplicación. Aprenderás a gestionar eventos sintéticos, dominar el rendimiento con componentes controlados y no controlados, y escalar hacia los estándares empresariales actuales construyendo formularios hiper-optimizados con **React Hook Form** y validaciones estrictas con esquemas **Zod**.
+
+### [Módulo 04: Asincronía y APIs](./04-asincronia-y-apis)
+**⏱️ Duración estimada:** 15 - 20 horas.
+Domina el "Estado del Servidor". Aprenderás a construir una capa de servicios robusta con **Axios** e interceptores, evitar *race conditions* con `AbortController`, y utilizar **TanStack Query (React Query)** como el estándar de la industria para caché, paginación, *scroll* infinito y *optimistic updates*. Finalizaremos dominando la UI declarativa con `<Suspense>` y `Error Boundaries` de React 18+.
+
+### [Módulo 05: Enrutamiento y Estado Global](./05-enrutamiento-y-estado-global)
+*(Próximamente - En desarrollo)*
 
 > *Nota: Puedes ver el temario completo y los próximos módulos en el archivo de planificación del curso.*
 
